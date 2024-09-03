@@ -1,0 +1,5 @@
+Time(フレーム),Action(やること),Object(何を),コメント
+0,AnimSpeed,1,
+20,AnimSpeed,1.5,
+20,Dive,10,
+20,AttackCol,SPHERE_40.0_7_,判定タイプ_判定サイズ_フレーム番号_フレーム番号(カプセルの場合)_

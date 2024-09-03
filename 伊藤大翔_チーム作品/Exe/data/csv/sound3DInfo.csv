@@ -1,0 +1,9 @@
+サウンド名,パス,聞こえる範囲(球の半径),最低音量(％),最大音量(％),ループ
+stand_walk,data/sound/SE/Player/stand_walk.wav,-1,100,100,FALSE
+stand_run,data/sound/SE/Player/stand_run.wav,-1,100,100,FALSE
+crouch_walk,data/sound/SE/Player/crouch_walk.wav,-1,100,100,FALSE
+crouch_run,data/sound/SE/Player/crouch_run.wav,-1,100,100,FALSE
+tim_walk,data/sound/SE/Enemy/tim/tim_walk.wav,300,100,100,FALSE
+tim_run,data/sound/SE/Enemy/tim/tim_run.wav,300,100,100,FALSE
+wind_noise,data/sound/SE/Stage/wind_noise.wav,500,100,100,FALSE
+wind_grass,data/sound/SE/Stage/wind_grass.mpe,500,100,100,FALSE

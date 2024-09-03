@@ -1,0 +1,44 @@
+﻿//モデルの保存場所のパスを書いてください（例:data/character/player.mv1）,,,,,,,,,
+data/model/player/player.mv1,,,,,0,playerを配置する,,,
+data/model/enemy/tim_1.mv1,,,,,1,ティミーを配置する,,,
+data/model/enemy/fox.mv1,,,,,2,盗塁王を配置する,,,
+data/model/enemy/claire.mv1,,,,,3,女性を配置する,,,
+data/model/enemy/tim_2.mv1,,,,,4,ティミー(動かない)を配置する,,,
+data/model/stage/Stage/Stage_Obj003.mv1,,,,,5,細長い岩,,,
+data/model/stageObject/Drum.mv1,,,,,6,ごみ箱、隠れるもの,,,3
+data/model/stage/Stage/Stage_Obj019.mv1,,,,,7,やぐら,,,0
+data/model/stageObject/box.mv1,,,,,8,箱,,,2
+data/model/stageObject/Barricade.mv1,,,,,9,バリケード,,,1
+data/model/stageObject/castle wall_1.mv1,,,,,10,外壁の柱,,,0
+data/model/stageObject/castle wall_2.mv1,,,,,11,外壁,,,0
+data/model/stageObject/tent.mv1,,,,,12,サーカステント,,,1
+data/model/stageObject/Building.mv1,,,,,13,家,,,2
+data/model/stageObject/train_Leading.mv1,,,,,14,汽車先頭,,,2
+data/model/stageObject/train.mv1,,,,,15,客車,,,2
+data/model/stageObject/Obj_Garbage can_1.mv1,,,,,16,被れないゴミ箱（缶瓶ペット）,,,1
+data/model/stageObject/Obj_Garbage can_2.mv1,,,,,17,被れないゴミ箱（燃える燃えないプラスチック）,,,1
+data/model/stageObject/Obj_speaker.mv1,,,,,18,園内スピーカー,,,0
+data/model/stageObject/light.mv1,,,,,19,街灯,,,0
+data/model/stageObject/fence.mv1,,,,,20,フェンス,,,2
+data/model/stageObject/bench.mv1,,,,,21,ベンチ,,,1
+data/model/stageObject/Obj_Parasol.mv1,,,,,22,パラソル単体,,,1
+data/model/stageObject/Obj_Parasol_2.mv1,,,,,23,パラソル付き机,,,1
+data/model/stageObject/Obj_Garden_Table.mv1,,,,,24,パラソルなし机,,,1
+data/model/stageObject/Coffeecup_set.mv1,,,,,25,コーヒーカップ,,,1
+data/model/stageObject/Coffeecup_road.mv1,,,,,26,コーヒーカップまわりの道,,,0
+data/model/stageObject/Coffeecup_only.mv1,,,,,27,カップ単体,,,1
+data/model/stageObject/Road_1.mv1,,,,,28,道直線,,,0
+data/model/stageObject/Road_2.mv1,,,,,29,道カーブ,,,0
+data/model/stageObject/Road_3.mv1,,,,,30,道内カーブ,,,0
+data/model/stageObject/Popcorn.mv1,,,,,31,ポップコーン,,,1
+data/model/stageObject/shop_1.mv1,,,,,32,お店,,,2
+data/model/stageObject/shop_1_2.mv1,,,,,33,お店青,,,2
+data/model/stageObject/shop_1_3.mv1,,,,,34,お店黒,,,2
+data/model/stageObject/shop_2.mv1,,,,,35,お店2,,,2
+data/model/stageObject/rubble_2.mv1,,,,,36,瓦礫、間を通り抜ける,,,4?
+data/model/stageObject/Garbage can2.mv1,,,,,37,かぶり物2,,,3
+data/model/stageObject/small_fence.mv1,,,,,38,小さい柵,,,1
+data/model/stageObject/Guide plate.mv1,,,,,39,案内板,,,
+data/model/stageObject/panel.mv1,,,,,40,ティミーパネル,,,
+data/model/stageObject/panel2.mv1,,,,,41,ティミーパネル反転ver,,,
+data/model/stageObject/goal.mv1,,,,,42,GOAL,,,

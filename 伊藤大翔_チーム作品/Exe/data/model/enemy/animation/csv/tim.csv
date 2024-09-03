@@ -1,0 +1,14 @@
+NAME,PATH,LOOP,PLAYBACK,コメント
+IDLE,tim_idle.mv1,TRUE,FALSE,
+RUN,tim_run2.mv1,TRUE,FALSE,
+WALK,tim_walk2.mv1,TRUE,FALSE,
+DIVE,tim_dive.mv1,FALSE,FALSE,
+LAYSTAND,tim_lay_stand.mv1,FALSE,FALSE,立ち上がり
+SEEK,tim_seek.mv1,FALSE,FALSE,探す
+BENDKNEES,tim_bend_knees.mv1,FALSE,TRUE,しゃがみ移行
+STRANGLE,tim_strangle.mv1,TRUE,FALSE,掴み中
+STRANGLESTART,tim_strangle_start.mv1,FALSE,FALSE,掴み移行
+BLOW,tim_blow.mv1,FALSE,FALSE,吹き飛ばされ
+CROUCHSTAND,tim_crouch_stand.mv1,FALSE,FALSE,吹き飛ばされから立ち上がり
+SURPRISE,tim_surprise.mv1,FALSE,FALSE,驚き
+STUN,tim_stun.mv1,FALSE,FALSE,スタン

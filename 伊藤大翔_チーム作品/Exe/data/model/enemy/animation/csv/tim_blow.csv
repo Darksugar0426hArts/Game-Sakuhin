@@ -1,0 +1,2 @@
+Time(フレーム),Action(やること),Object(何を),コメント
+0,BlowToRot,8,自身の回転値を基準にする

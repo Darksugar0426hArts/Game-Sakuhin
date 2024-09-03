@@ -1,0 +1,16 @@
+アニメーション名,パス,再生速度,ブレンドフレーム数,ループ
+stand_idle,data/model/player/stand_idle.mv1,1,10,TRUE
+stand_walk,data/model/player/stand_walk.mv1,1,10,TRUE
+stand_run,data/model/player/stand_run.mv1,1,10,TRUE
+crouch_idle,data/model/player/crouch_idle.mv1,1,10,TRUE
+crouch_walk,data/model/player/crouch_walk.mv1,1,10,TRUE
+crouch_run,data/model/player/crouch_run.mv1,1,10,TRUE
+cover_idle,data/model/player/cover_idle.mv1,1,10,TRUE
+cover_walk,data/model/player/cover_walk.mv1,1,10,TRUE
+cover_run,data/model/player/cover_run.mv1,1,10,TRUE
+wear,data/model/player/wear.mv1,1,10,FALSE
+blow,data/model/player/blow.mv1,1,10,FALSE
+lie_upward,data/model/player/lie_upward.mv1,1,10,FALSE
+resist,data/model/player/resist.mv1,1.3,10,FALSE
+resist_stand,data/model/player/resist_stand.mv1,1,10,FALSE
+lying,data/model/player/lying.mv1,1,40,TRUE

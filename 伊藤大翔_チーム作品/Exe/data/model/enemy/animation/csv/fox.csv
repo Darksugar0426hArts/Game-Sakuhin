@@ -1,0 +1,5 @@
+NAME,PATH,LOOP,PLAYBACK,ÉRÉÅÉìÉg
+IDLE,fox_idle.mv1,TRUE,FALSE,
+RUN,fox_run.mv1,TRUE,FALSE,
+WALK,fox_walk.mv1,TRUE,FALSE,
+DIVE,fox_attack.mv1,FALSE,FALSE,
